@@ -24,7 +24,7 @@ const emit = defineEmits(['restart']);
         
         <div class="logs-window">
              <div v-for="(log, index) in logs" :key="index" class="log-entry">
-                 > {{ log }}
+                 {{ log }}
              </div>
         </div>
     </div>
@@ -93,8 +93,9 @@ const emit = defineEmits(['restart']);
     gap: 0.4rem;
 }
 
-.log-entry::before {
+.log-entry:first-child::before {
     content: ">";
     color: #60a5fa;
+    font-weight: bold;
 }
 </style>
