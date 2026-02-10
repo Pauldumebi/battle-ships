@@ -30,7 +30,7 @@ By default, the application will be accessible at `http://localhost:5173`. You c
 
 To play the game, use the command input to fire at the enemy ships or click on the enemy waters to fire at the enemy ships. 
 
-![Battleship Game Mockup](images/mockup.png)
+![Battleship Game Mockup](images/playing.png)
 
 ## Gameplay States
 
