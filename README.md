@@ -26,7 +26,7 @@ By default, the application will be accessible at `http://localhost:5173`. You c
 - **Center Column**: Game Status, Turn Indicator, and Command Input
 - **Right Column**: Enemy Waters (Computer Board)
 
-![Battleship Game layout](images/layout.png)
+![Battleship Game layout](images/game-layout.png)
 
 To play the game, use the command input to fire at the enemy ships or click on the enemy waters to fire at the enemy ships. 
 
