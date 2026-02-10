@@ -37,7 +37,7 @@ npm run test
 ```
 
 This will execute the test suites for `Board.js` and `Ship.js`, verifying the functional integrity of the game mechanics.
-![Test Results Placeholder](images/tests_placeholder.png)
+![Test Results Placeholder](images/tests.png)
 
 ---
 
@@ -80,7 +80,3 @@ The UI is built with a mobile-first mindset using modern CSS (Flexbox and Grid).
 - **Testing**: [Vitest](https://vitest.dev/)
 - **Logic**: Pure Functional Programming
 - **Styling**: Modern Vanilla CSS with CSS Variables
-
-## License
-
-MIT
